@@ -14,7 +14,6 @@ This node app allows for a few functions:
     * All search results will be logged in the filed named log.txt
 
 ---
-
 ## How to Use the App
 
 #### 1. Clone the repository on to your computer. 
@@ -35,19 +34,14 @@ This node app allows for a few functions:
 
         * node liri.js spotify-this-song &lt;artists's name&gt;
 
-
         * node liri.js movie-this &lt;artists's name&gt;
 
         * node liri.js do-what-it-says &lt;artists's name&gt;
-        
-            * do-what-it-says function depends on the text within random.txt
-                - Currently in random.txt, I have ... concert-this, tiesto ...
+            - do-what-it-says function depends on the text within random.txt
+            - Currently in random.txt, I have ... concert-this, tiesto ...
 #### 3. All search results will be in text form in the file log.txt
 
-
-
 ---
-
 ## npm Packages
 
     * axios
