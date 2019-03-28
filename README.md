@@ -30,27 +30,24 @@ This node app allows for a few functions:
         * node liri.js concert-this &lt;artists's name&gt;
 
             * Here is an image of what it would look like:
-            ![alt text](https://raw.githubusercontent.com/mjblee20/liri-node-app/master/images/concert-this.png)
-            https://github.com/mjblee20/liri-node-app/blob/master/images/concert-this.png
+            ![screenshot of concert-this](https://raw.githubusercontent.com/mjblee20/liri-node-app/master/images/concert-this.png)
 
         * node liri.js spotify-this-song &lt;artists's name&gt;
 
             * Here is an image of what it would look like:
-            ![alt text](https://raw.githubusercontent.com/mjblee20/liri-node-app/master/images/spotify-this-song.png "spotify-this-song screenshot")
+            ![screenshot of spotify-this-song](https://raw.githubusercontent.com/mjblee20/liri-node-app/master/images/concert-this.png)
 
         * node liri.js movie-this &lt;artists's name&gt;
 
             * Here is an image of what it would look like:
-            ![alt text](images/movie-this.png?raw=true "movie-this screenshot")
+            ![screenshot of movie-this](images/movie-this.png?raw=true "movie-this screenshot")
 
         * node liri.js do-what-it-says &lt;artists's name&gt;
         
             * do-what-it-says function depends on the text within random.txt
                 - Currently in random.txt, I have ... concert-this, tiesto ...
             * Here is an image of what it would look like:
-            ![alt text][logo]
-            
-            [logo]: images/do-what-it-says.png?raw=true "do-what-it-says screenshot"
+            ![screenshot of do-what-it-says](liri-node-app/images/do-what-it-says.png)
 
 #### 3. All search results will be in text form in the file log.txt
 
