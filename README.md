@@ -8,7 +8,9 @@ This node app allows for a few functions:
     * Search a song name to pull up a list of songs utilizing the Spotify API
     ![spotify-this-song screenshot](images/spotify-this-song.png)
     * Search a movie title to get specific details of the movie. (i.e. title, year released, rating, language, and plot)
-    ![movie-this screenshot](liri-node-app/images/do-what-it-says.png)
+    ![movie-this screenshot](images/movie-this.png)
+    * Search for anything of the above by entering text in random.txt in certain formats
+    ![movie-this screenshot](images/do-what-it-says.png)
     * All search results will be logged in the filed named log.txt
 
 ---
@@ -17,7 +19,7 @@ This node app allows for a few functions:
 
 #### 1. Clone the repository on to your computer. 
 
-#### 2. Open up the command line
+ 2. Open up the command line
 
     - install the npm packages mentioned below
         * initialize package.json
@@ -32,25 +34,15 @@ This node app allows for a few functions:
 
         * node liri.js concert-this &lt;artists's name&gt;
 
-            * Here is an image of what it would look like:
-            ![concert-this screenshot](images/concert-this.png)
-
         * node liri.js spotify-this-song &lt;artists's name&gt;
 
-            * Here is an image of what it would look like:
-            ![spotify-this-song screenshot](images/spotify-this-song.png)
 
         * node liri.js movie-this &lt;artists's name&gt;
-
-            * Here is an image of what it would look like:
-            ![movie-this screenshot](images/movie-this.png)
 
         * node liri.js do-what-it-says &lt;artists's name&gt;
         
             * do-what-it-says function depends on the text within random.txt
                 - Currently in random.txt, I have ... concert-this, tiesto ...
-            * Here is an image of what it would look like:
-            ![do-what-it-says screenshot](liri-node-app/images/do-what-it-says.png)
 
 #### 3. All search results will be in text form in the file log.txt
 
