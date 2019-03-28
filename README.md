@@ -5,10 +5,10 @@
 ## Function
 
 This node app allows for a few functions: 
-* Search the name of an artist and see when and where he or she is hosting concerts, as well as the name of the venue.
-* Search a song name to pull up a list of songs utilizing the Spotify API
-* Search a movie title to get specific details of the movie. (i.e. title, year released, rating, language, and plot)
-* All search results will be logged in the filed named log.txt
+    * Search the name of an artist and see when and where he or she is hosting concerts, as well as the name of the venue.
+    * Search a song name to pull up a list of songs utilizing the Spotify API
+    * Search a movie title to get specific details of the movie. (i.e. title, year released, rating, language, and plot)
+    * All search results will be logged in the filed named log.txt
 
 ---
 
@@ -48,19 +48,19 @@ This node app allows for a few functions:
                 - Currently in random.txt, I have ... concert-this, tiesto ...
             * Here is an image of what it would look like:
             ![alt text](https://github.com/mjblee20/liri-node-app/images/do-what-it-says.png "do-what-it-says screenshot")
-            
+
 #### 3. All search results will be in text form in the file log.txt
 
 ---
 
 ## npm Packages
 
-* axios
-    For the API request calls and handling of the response data
-* node-spotify-api
-    For spotify API requests and handling of the response data
-* moment.js
-    For converting the date in bandsintown API
-* dotenv
-    For preventing sensitive data to be visible to public
+    * axios
+        For the API request calls and handling of the response data
+    * node-spotify-api
+        For spotify API requests and handling of the response data
+    * moment.js
+        For converting the date in bandsintown API
+    * dotenv
+        For preventing sensitive data to be visible to public
 
