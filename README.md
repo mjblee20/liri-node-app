@@ -30,7 +30,7 @@ This node app allows for a few functions:
         * node liri.js concert-this &lt;artists's name&gt;
 
             * Here is an image of what it would look like:
-            ![screenshot of concert-this](https://raw.githubusercontent.com/mjblee20/liri-node-app/master/images/concert-this.png)
+            ![screenshot of concert-this](https://github.com/mjblee20/liri-node-app/blob/master/images/do-what-it-says.png?raw=true)
 
         * node liri.js spotify-this-song &lt;artists's name&gt;
 
