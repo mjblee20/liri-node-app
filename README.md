@@ -16,38 +16,38 @@ This node app allows for a few functions:
 
 #### 1. Clone the repository on to your computer. 
 #### 2. Open up the command line
-    - install the npm packages mentioned below
-        * initialize package.json
-        
-            npm init -y
+        - install the npm packages mentioned below
+            * initialize package.json
+            
+                npm init -y
 
-        * install the npm packages that the app depends on
+            * install the npm packages that the app depends on
 
-            npm i
+                npm i
 
-    - In the command line this app has 4 commands.
+        - In the command line this app has 4 commands.
 
-        * node liri.js concert-this &lt;artists's name&gt;
+            * node liri.js concert-this &lt;artists's name&gt;
 
-            * Here is an image of what it would look like:
-            ![alt text](https://github.com/mjblee20/liri-node-app/images/concert-this.png "concert-this screenshot")
+                * Here is an image of what it would look like:
+                ![alt text](https://github.com/mjblee20/liri-node-app/images/concert-this.png "concert-this screenshot")
 
-        * node liri.js spotify-this-song &lt;artists's name&gt;
+            * node liri.js spotify-this-song &lt;artists's name&gt;
 
-            * Here is an image of what it would look like:
-            ![alt text](https://github.com/mjblee20/liri-node-app/images/spotify-this-song.png "spotify-this-song screenshot")
+                * Here is an image of what it would look like:
+                ![alt text](https://github.com/mjblee20/liri-node-app/images/spotify-this-song.png "spotify-this-song screenshot")
 
-        * node liri.js movie-this &lt;artists's name&gt;
+            * node liri.js movie-this &lt;artists's name&gt;
 
-            * Here is an image of what it would look like:
-            ![alt text](https://github.com/mjblee20/liri-node-app/images/movie-this.png "movie-this screenshot")
+                * Here is an image of what it would look like:
+                ![alt text](https://github.com/mjblee20/liri-node-app/images/movie-this.png "movie-this screenshot")
 
-        * node liri.js do-what-it-says &lt;artists's name&gt;
-        
-            * do-what-it-says function depends on the text within random.txt
-                - Currently in random.txt, I have ... concert-this, tiesto ...
-            * Here is an image of what it would look like:
-            ![alt text](https://github.com/mjblee20/liri-node-app/images/do-what-it-says.png "do-what-it-says screenshot")
+            * node liri.js do-what-it-says &lt;artists's name&gt;
+            
+                * do-what-it-says function depends on the text within random.txt
+                    - Currently in random.txt, I have ... concert-this, tiesto ...
+                * Here is an image of what it would look like:
+                ![alt text](https://github.com/mjblee20/liri-node-app/images/do-what-it-says.png "do-what-it-says screenshot")
 
 #### 3. All search results will be in text form in the file log.txt
 
