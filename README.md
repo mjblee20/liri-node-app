@@ -3,15 +3,15 @@
 ## Function
 
 This node app allows for a few functions: 
-    * Search the name of an artist and see when and where he or she is hosting concerts, as well as the name of the venue.
-    ![concert-this screenshot](images/concert-this.png)
-    * Search a song name to pull up a list of songs utilizing the Spotify API
-    ![spotify-this-song screenshot](images/spotify-this-song.png)
-    * Search a movie title to get specific details of the movie. (i.e. title, year released, rating, language, and plot)
-    ![movie-this screenshot](images/movie-this.png)
-    * Search for anything of the above by entering text in random.txt in certain formats
-    ![movie-this screenshot](images/do-what-it-says.png)
-    * All search results will be logged in the filed named log.txt
+...    * Search the name of an artist and see when and where he or she is hosting concerts, as well as the name of the venue.
+       ![concert-this screenshot](images/concert-this.png)
+...    * Search a song name to pull up a list of songs utilizing the Spotify API
+       ![spotify-this-song screenshot](images/spotify-this-song.png)
+...    * Search a movie title to get specific details of the movie. (i.e. title, year released, rating, language, and plot)
+       ![movie-this screenshot](images/movie-this.png)
+...    * Search for anything of the above by entering text in random.txt in certain formats
+       ![movie-this screenshot](images/do-what-it-says.png)
+...    * All search results will be logged in the filed named log.txt
 
 ---
 ## How to Use the App
