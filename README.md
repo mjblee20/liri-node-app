@@ -30,24 +30,24 @@ This node app allows for a few functions:
         * node liri.js concert-this &lt;artists's name&gt;
 
             * Here is an image of what it would look like:
-            ![concert-this screenshot](images/concert-this.png?raw=true)
+            ![concert-this screenshot](liri-node-app/images/concert-this.png)
 
         * node liri.js spotify-this-song &lt;artists's name&gt;
 
             * Here is an image of what it would look like:
-            ![spotify-this-song screenshot](images/spotify-this-song.png?raw=true)
+            ![spotify-this-song screenshot](liri-node-app/images/do-what-it-says.png)
 
         * node liri.js movie-this &lt;artists's name&gt;
 
             * Here is an image of what it would look like:
-            ![movie-this screenshot](images/movie-this.png?raw=true)
+            ![movie-this screenshot](liri-node-app/images/do-what-it-says.png)
 
         * node liri.js do-what-it-says &lt;artists's name&gt;
         
             * do-what-it-says function depends on the text within random.txt
                 - Currently in random.txt, I have ... concert-this, tiesto ...
             * Here is an image of what it would look like:
-            ![do-what-it-says screenshot](images/do-what-it-says.png?raw=true)
+            ![do-what-it-says screenshot](liri-node-app/images/do-what-it-says.png)
 
 #### 3. All search results will be in text form in the file log.txt
 
