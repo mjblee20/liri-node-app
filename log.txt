@@ -1,0 +1,764 @@
+
+Result: 1
+========================
+Name of the Venue:                Ultra Music Festival - Miami
+Venue Location:                   Miami, FL, United States
+Date of the Event(MM/DD/YYYY):    03/29/2019
+========================
+
+Result: 2
+========================
+Name of the Venue:                E11EVEN MIAMI & ROOFTOP
+Venue Location:                   Fl, Florida, United States
+Date of the Event(MM/DD/YYYY):    03/31/2019
+========================
+
+Result: 3
+========================
+Name of the Venue:                KAOS-Nightclub
+Venue Location:                   Las Vegas, Nevada, United States
+Date of the Event(MM/DD/YYYY):    04/04/2019
+========================
+
+Result: 6
+========================
+Name of the Venue:                KAOS-Dayclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/20/2019
+========================
+
+Result: 7
+========================
+Name of the Venue:                KAOS-Dayclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/27/2019
+========================
+
+Result: 8
+========================
+Name of the Venue:                KAOS-Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/28/2019
+========================
+
+Result: 9
+========================
+Name of the Venue:                KAOS-Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/03/2019
+========================
+
+Result: 10
+========================
+Name of the Venue:                KAOS-Dayclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/04/2019
+========================
+
+Result: 12
+========================
+Name of the Venue:                WiSH Outdoor 2019
+Venue Location:                   Monterrey, , Mexico
+Date of the Event(MM/DD/YYYY):    05/25/2019
+========================
+
+Result: 13
+========================
+Name of the Venue:                Brännbollsyran
+Venue Location:                   Umeå, , Sweden
+Date of the Event(MM/DD/YYYY):    05/30/2019
+========================
+
+Result: 14
+========================
+Name of the Venue:                Orange Warsaw Festival 2019
+Venue Location:                   Warszawa, , Poland
+Date of the Event(MM/DD/YYYY):    05/31/2019
+========================
+
+Result: 15
+========================
+Name of the Venue:                Brännbollsyran
+Venue Location:                   Umeå, , Sweden
+Date of the Event(MM/DD/YYYY):    06/01/2019
+========================
+
+Result: 16
+========================
+Name of the Venue:                Commerzbank-Arena
+Venue Location:                   Frankfurt Am Main, , Germany
+Date of the Event(MM/DD/YYYY):    06/07/2019
+========================
+
+Result: 17
+========================
+Name of the Venue:                Belsonic
+Venue Location:                   Belfast, , Ireland
+Date of the Event(MM/DD/YYYY):    06/26/2019
+========================
+
+Result: 18
+========================
+Name of the Venue:                Plaine De La Filhole - Plein Air
+Venue Location:                   Marmande, , France
+Date of the Event(MM/DD/YYYY):    06/27/2019
+========================
+
+Result: 19
+========================
+Name of the Venue:                Praia do Aterro Norte
+Venue Location:                   Matosinhos, , Portugal
+Date of the Event(MM/DD/YYYY):    06/28/2019
+========================
+
+Result: 20
+========================
+Name of the Venue:                Radio Nova Galp Beach Party
+Venue Location:                   Porto, , Portugal
+Date of the Event(MM/DD/YYYY):    06/29/2019
+========================
+
+Result: 21
+========================
+Name of the Venue:                Electric Playground: Marshmello
+Venue Location:                   Maçka, , Turkey
+Date of the Event(MM/DD/YYYY):    07/03/2019
+========================
+
+Result: 22
+========================
+Name of the Venue:                Marshmello // Balaton Sound 2019
+Venue Location:                   Zamárdi, , Hungary
+Date of the Event(MM/DD/YYYY):    07/04/2019
+========================
+
+Result: 23
+========================
+Name of the Venue:                Palmesus
+Venue Location:                   Kristiansand, , Norway
+Date of the Event(MM/DD/YYYY):    07/05/2019
+========================
+
+Result: 24
+========================
+Name of the Venue:                Electric Love
+Venue Location:                   Salzburg, , Austria
+Date of the Event(MM/DD/YYYY):    07/06/2019
+========================
+
+Result: 25
+========================
+Name of the Venue:                îleSoniq 2019
+Venue Location:                   Montréal, , Canada
+Date of the Event(MM/DD/YYYY):    08/09/2019
+========================
+
+Result: 5
+========================
+Name of the Venue:                KAOS-Dayclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/13/2019
+========================
+
+Result: 11
+========================
+Name of the Venue:                KAOS-Dayclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/18/2019
+========================
+
+Result: 4
+========================
+Name of the Venue:                KAOS-Dayclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/06/2019
+========================
+
+========================
+Result: 1
+Artist(s): AJ Rafael 
+Song:Preview URL: https://p.scdn.co/mp3-preview/6e46e72434c2e8dc736723dd1f6d554cfb39a38a?cid=115ee838c3854c73830be35b1f3a9836
+Album: Red Roses
+========================
+
+========================
+Result: 2
+Artist(s): Moira Dela Torre 
+Song:Preview URL: https://p.scdn.co/mp3-preview/e4ed9ebc67813a12dc3933db04f00075ef686a70?cid=115ee838c3854c73830be35b1f3a9836
+Album: We Could Happen
+========================
+
+========================
+Result: 6
+Artist(s): We Found a Lovebird 
+Song:Preview URL: https://p.scdn.co/mp3-preview/977ce1b477fdcc2f4d3155c13ef65df8bbbaf5d9?cid=115ee838c3854c73830be35b1f3a9836
+Album: Lobby
+========================
+
+========================
+Result: 7
+Artist(s): Serge and Caroline 
+Song:Preview URL: https://p.scdn.co/mp3-preview/f2d9030efac04807ca4906192567ea2bdc0621da?cid=115ee838c3854c73830be35b1f3a9836
+Album: We Will Not Lose
+========================
+
+========================
+Result: 8
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: A Jazz Evening at Home, Vol. 20
+========================
+
+========================
+Result: 9
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/4e0b632f7939c855c6d064212180f624e7d31380?cid=115ee838c3854c73830be35b1f3a9836
+Album: Jazz Showcase: The Songster, Vol. 10
+========================
+
+========================
+Result: 10
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: The Jazz Master Series: Vocalese Virtuosi, Vol. 10
+========================
+
+========================
+Result: 11
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: Jazz Salon: In the Mix, Vol. 19
+========================
+
+========================
+Result: 12
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: The Jazz Vault: Lyric, Vol. 10
+========================
+
+========================
+Result: 13
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: The Jazz Singer: United Souls Collection, Vol. 11
+========================
+
+========================
+Result: 14
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: Notes on Jazz, Vol. 2
+========================
+
+========================
+Result: 15
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: Jazz Collection: The Singles, Vol. 14
+========================
+
+========================
+Result: 16
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: This Is Not a Test: The Jazz Chronicles, Vol. 1
+========================
+
+========================
+Result: 17
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: Seamless: The Jazz Sessions, Vol. 5
+========================
+
+========================
+Result: 18
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: Jazz City: Vocal Sessions, Vol. 11
+========================
+
+========================
+Result: 19
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: Bar Zebra: Jazz Collection, Vol. 1
+========================
+
+========================
+Result: 20
+Artist(s): Frank Macchia Patrick Maier 
+Song:Preview URL: https://p.scdn.co/mp3-preview/113a9665f47f657700121f5161a7a79859fda464?cid=115ee838c3854c73830be35b1f3a9836
+Album: Club Deluxe: An Evening of Jazz, Vol. 18
+========================
+
+========================
+Result: 3
+Artist(s): Swing Out Sister 
+Song:Preview URL: null
+Album: Shapes And Patterns
+========================
+
+========================
+Result: 4
+Artist(s): The Highland Cow 
+Song:Preview URL: https://p.scdn.co/mp3-preview/0d36388bf4b9d743995e703e412fc591067794a0?cid=115ee838c3854c73830be35b1f3a9836
+Album: Short Pants & Folded Sleeves
+========================
+
+========================
+Result: 5
+Artist(s): The Highland Cow 
+Song:Preview URL: https://p.scdn.co/mp3-preview/14d53e394e289ddf463ab3d2c01d84b0be99f14f?cid=115ee838c3854c73830be35b1f3a9836
+Album: Short Pants & Folded Sleeves
+========================
+
+========================
+Title: How to Train Your Dragon
+Year Released: 2010
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 98%
+Country Origin: USA
+Language: English
+Plot: A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+Actors: Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera
+========================
+
+Result: 1
+========================
+Name of the Venue:                LIV
+Venue Location:                   Miami, FL, United States
+Date of the Event(MM/DD/YYYY):    03/28/2019
+========================
+
+Result: 2
+========================
+Name of the Venue:                Ultra Music Festival
+Venue Location:                   Miami, FL, United States
+Date of the Event(MM/DD/YYYY):    03/29/2019
+========================
+
+Result: 3
+========================
+Name of the Venue:                Lollapalooza Argentina
+Venue Location:                   San Isidro, , Argentina
+Date of the Event(MM/DD/YYYY):    03/30/2019
+========================
+
+Result: 6
+========================
+Name of the Venue:                Lollapalooza Brazil
+Venue Location:                   São Paulo, , Brazil
+Date of the Event(MM/DD/YYYY):    04/05/2019
+========================
+
+Result: 7
+========================
+Name of the Venue:                Marquee Nightclub
+Venue Location:                   Singapore, , Singapore
+Date of the Event(MM/DD/YYYY):    04/12/2019
+========================
+
+Result: 8
+========================
+Name of the Venue:                Club Cubic
+Venue Location:                   Macau, , China
+Date of the Event(MM/DD/YYYY):    04/13/2019
+========================
+
+Result: 9
+========================
+Name of the Venue:                S2O Music Festival
+Venue Location:                   Bangkok, , Thailand
+Date of the Event(MM/DD/YYYY):    04/14/2019
+========================
+
+Result: 10
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/18/2019
+========================
+
+Result: 11
+========================
+Name of the Venue:                Melody Maker Cancun
+Venue Location:                   Cancún, , Mexico
+Date of the Event(MM/DD/YYYY):    04/20/2019
+========================
+
+Result: 12
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/25/2019
+========================
+
+Result: 13
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    04/27/2019
+========================
+
+Result: 14
+========================
+Name of the Venue:                MAYDAY
+Venue Location:                   Dortmund, , Germany
+Date of the Event(MM/DD/YYYY):    04/30/2019
+========================
+
+Result: 15
+========================
+Name of the Venue:                Landstreff Stavanger
+Venue Location:                   Stavanger, , Norway
+Date of the Event(MM/DD/YYYY):    05/03/2019
+========================
+
+Result: 16
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/04/2019
+========================
+
+Result: 17
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/09/2019
+========================
+
+Result: 18
+========================
+Name of the Venue:                EDC Japan: May 11-12
+Venue Location:                   Chiba, Chiba Prefecture, Japan
+Date of the Event(MM/DD/YYYY):    05/11/2019
+========================
+
+Result: 19
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/16/2019
+========================
+
+Result: 20
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/18/2019
+========================
+
+Result: 21
+========================
+Name of the Venue:                Premier Nightclub
+Venue Location:                   Atlantic City, NJ, United States
+Date of the Event(MM/DD/YYYY):    05/24/2019
+========================
+
+Result: 22
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/25/2019
+========================
+
+Result: 23
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    05/26/2019
+========================
+
+Result: 24
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/01/2019
+========================
+
+Result: 4
+========================
+Name of the Venue:                Lollapalooza Chile
+Venue Location:                   Santiago, , Chile
+Date of the Event(MM/DD/YYYY):    03/31/2019
+========================
+
+Result: 25
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/02/2019
+========================
+
+Result: 26
+========================
+Name of the Venue:                Summerburst Festival: Jun 7-8
+Venue Location:                   Göteborg, , Sweden
+Date of the Event(MM/DD/YYYY):    06/07/2019
+========================
+
+Result: 27
+========================
+Name of the Venue:                OMNIA Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/08/2019
+========================
+
+Result: 28
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/09/2019
+========================
+
+Result: 29
+========================
+Name of the Venue:                OMNIA Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/14/2019
+========================
+
+Result: 30
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/15/2019
+========================
+
+Result: 31
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/20/2019
+========================
+
+Result: 32
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/22/2019
+========================
+
+Result: 33
+========================
+Name of the Venue:                BOMFest: June 28-30
+Venue Location:                   Edmonton, , Canada
+Date of the Event(MM/DD/YYYY):    06/28/2019
+========================
+
+Result: 34
+========================
+Name of the Venue:                Belsonic
+Venue Location:                   Belfast, , United Kingdom
+Date of the Event(MM/DD/YYYY):    06/28/2019
+========================
+
+Result: 35
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    06/29/2019
+========================
+
+Result: 36
+========================
+Name of the Venue:                Balaton Sound
+Venue Location:                   Zamàrdi, , Hungary
+Date of the Event(MM/DD/YYYY):    07/03/2019
+========================
+
+Result: 37
+========================
+Name of the Venue:                Electric Love Festival
+Venue Location:                   Salzburg, , Austria
+Date of the Event(MM/DD/YYYY):    07/04/2019
+========================
+
+Result: 38
+========================
+Name of the Venue:                Palmesus AS
+Venue Location:                   Kristiansand S, , Norway
+Date of the Event(MM/DD/YYYY):    07/05/2019
+========================
+
+Result: 39
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    07/06/2019
+========================
+
+Result: 40
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    07/11/2019
+========================
+
+Result: 41
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    07/13/2019
+========================
+
+Result: 42
+========================
+Name of the Venue:                BCM Planet Dance
+Venue Location:                   Islas Baleares, , Spain
+Date of the Event(MM/DD/YYYY):    07/17/2019
+========================
+
+Result: 43
+========================
+Name of the Venue:                OMNIA Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    07/20/2019
+========================
+
+Result: 44
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    07/27/2019
+========================
+
+Result: 45
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    07/28/2019
+========================
+
+Result: 46
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/01/2019
+========================
+
+Result: 47
+========================
+Name of the Venue:                Veld Music Festival: Aug 3-4
+Venue Location:                   Toronto, , Canada
+Date of the Event(MM/DD/YYYY):    08/03/2019
+========================
+
+Result: 48
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/03/2019
+========================
+
+Result: 49
+========================
+Name of the Venue:                OMNIA Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/09/2019
+========================
+
+Result: 50
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/10/2019
+========================
+
+Result: 51
+========================
+Name of the Venue:                OMNIA Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/16/2019
+========================
+
+Result: 52
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/17/2019
+========================
+
+Result: 53
+========================
+Name of the Venue:                OMNIA Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/23/2019
+========================
+
+Result: 54
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/24/2019
+========================
+
+Result: 55
+========================
+Name of the Venue:                Creamfields
+Venue Location:                   Daresbury, , United Kingdom
+Date of the Event(MM/DD/YYYY):    08/25/2019
+========================
+
+Result: 56
+========================
+Name of the Venue:                Summerburst Festival: Aug 30-31
+Venue Location:                   Stockholm, , Sweden
+Date of the Event(MM/DD/YYYY):    08/30/2019
+========================
+
+Result: 57
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    08/31/2019
+========================
+
+Result: 58
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    09/01/2019
+========================
+
+Result: 59
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    09/07/2019
+========================
+
+Result: 60
+========================
+Name of the Venue:                Hakkasan Las Vegas Nightclub
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    09/14/2019
+========================
+
+Result: 61
+========================
+Name of the Venue:                Wet Republic Ultra Pool
+Venue Location:                   Las Vegas, NV, United States
+Date of the Event(MM/DD/YYYY):    09/15/2019
+========================
+
+Result: 5
+========================
+Name of the Venue:                Festival Estereo Picnic: April 5-7
+Venue Location:                   Bogotá, , Colombia
+Date of the Event(MM/DD/YYYY):    04/05/2019
+========================
+
+========================
+Title: How to Train Your Dragon
+Year Released: 2010
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 98%
+Country Origin: USA
+Language: English
+Plot: A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+Actors: Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera
+========================
