@@ -19,8 +19,7 @@ This node app allows for a few functions:
 
 #### 1. Clone the repository on to your computer. 
 
- 2. Open up the command line
-
+#### 2. Open up the command line
     - install the npm packages mentioned below
         * initialize package.json
         
@@ -43,7 +42,6 @@ This node app allows for a few functions:
         
             * do-what-it-says function depends on the text within random.txt
                 - Currently in random.txt, I have ... concert-this, tiesto ...
-
 #### 3. All search results will be in text form in the file log.txt
 
 
